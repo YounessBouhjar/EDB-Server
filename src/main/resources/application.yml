@@ -5,5 +5,5 @@ server:
 
 eureka:
   client:
-    register-with-eurika: false
+    register-with-eureka: false
     fetch-registry: false

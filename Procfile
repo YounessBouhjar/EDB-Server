@@ -1,0 +1,1 @@
+web: java -jar target/discovery-server-*.jar --server.port=$PORT
